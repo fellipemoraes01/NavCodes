@@ -9,6 +9,7 @@ NavCodes é uma plataforma de cursos online desenvolvida como parte do projeto d
 - HTML
 - CSS
 - JavaScript
+- Anime.js (Biblioteca de animações JavaScript)
 
 ## Funcionalidades
 
