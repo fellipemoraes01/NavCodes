@@ -1,4 +1,4 @@
-# NavCodes
+![image](https://github.com/user-attachments/assets/89cf8fa6-a50d-4d12-970b-5f9ab0e51ab2)# NavCodes
 
 ## Descrição
 
@@ -16,6 +16,10 @@ NavCodes é uma plataforma de cursos online desenvolvida como parte do projeto d
 - Navegação intuitiva entre os cursos
 - Informações detalhadas sobre cada curso
 - Design responsivo para acesso em dispositivos móveis
+
+## Screenshot
+
+![Página Principal da NavCodes](https://github.com/user-attachments/assets/330c4488-62f8-4db8-8fca-08d19d593d2f)
 
 ## Contato
 
