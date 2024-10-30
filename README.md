@@ -18,6 +18,7 @@ NavCodes é uma plataforma de cursos online desenvolvida como parte do projeto d
 
 ## Contato
 
-Fellipe Moraes Macedo 
+Fellipe Moraes Macedo
+
 [LinkedIn](https://www.linkedin.com/in/fellipe-moraes-macedo-682b42235/)  
 [GitHub](https://github.com/fellipemoraes01)
